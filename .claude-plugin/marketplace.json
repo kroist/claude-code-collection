@@ -1,0 +1,13 @@
+{
+  "name": "zubec-plugins",
+  "owner": {
+    "name": "Maksym Zub"
+  },
+  "plugins": [
+    {
+      "name": "interview-plugin",
+      "source": "./plugins/interview-plugin",
+      "description": "Adds an /interview command for thorough user interview, completing the provided specs"
+    }
+  ]
+}

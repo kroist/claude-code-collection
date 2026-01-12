@@ -1,0 +1,5 @@
+{
+  "name": "interview-plugin",
+  "description": "Adds an /interview command for thorough user interview, completing the provided specs",
+  "version": "1.0.0"
+}
