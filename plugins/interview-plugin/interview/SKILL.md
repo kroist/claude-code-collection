@@ -1,5 +1,7 @@
 ---
+name: interview
 argument-hint: [@file1 @file2, ...]
+disable-model-invocation: true
 description: Interview in details
 ---
 
